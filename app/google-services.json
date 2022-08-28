@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240783593515",
+    "project_id": "heartz-49e48",
+    "storage_bucket": "heartz-49e48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240783593515:android:4e97ababb7b903284b1a6e",
+        "android_client_info": {
+          "package_name": "com.s1aks.heartz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240783593515-kasuqe0jol32fs1cn7b81ecocbs40338.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGfKZGTY7gtgtNOCd4WzTgaY0hm6aqVwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240783593515-kasuqe0jol32fs1cn7b81ecocbs40338.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

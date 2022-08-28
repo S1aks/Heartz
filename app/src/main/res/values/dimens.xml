@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="date_item_height">30dp</dimen>
+    <dimen name="date_text_margin">10dp</dimen>
+    <dimen name="date_text_size">16sp</dimen>
+    <dimen name="separator_height">1dp</dimen>
+    <dimen name="item_height">60dp</dimen>
+    <dimen name="time_margin_start">20dp</dimen>
+    <dimen name="time_text_size">14sp</dimen>
+    <dimen name="pressure_margin">20dp</dimen>
+    <dimen name="pressure_text_size">26sp</dimen>
+    <dimen name="heart_size">18dp</dimen>
+    <dimen name="pulse_margin_start">8dp</dimen>
+    <dimen name="pulse_text_size">24sp</dimen>
+</resources>
