@@ -12,4 +12,7 @@
     <string name="desc_heart">Heart</string>
     <string name="slash_text">/</string>
     <string name="desc_fab">Add</string>
+    <string name="dialog_title">Сохранение данных</string>
+    <string name="dialog_save_button_text">Сохранить</string>
+    <string name="dialog_cancel_button_text">Отмена</string>
 </resources>
